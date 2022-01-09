@@ -38,7 +38,7 @@ int main()
     search(1);
     printf("%d", s );
     printf("\n");
-    //GIT¸ü¸Ä²âÊÔ
+  
     // cout << s << endl;
     return 0;
 }
