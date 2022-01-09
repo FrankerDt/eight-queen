@@ -38,7 +38,8 @@ int main()
     search(1);
     printf("%d", s );
     printf("\n");
-  
+    //GIT¸ü¸Ä²âÊÔ
+    // V2°æ±¾²âÊÔ
     // cout << s << endl;
     return 0;
 }
